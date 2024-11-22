@@ -7,11 +7,11 @@
 
 # 关于代理服务器
 
-由于某种网络因素，访问Github.com需要配置代理服务器。
+访问Github.com需要配置代理服务器。
 
 设置全局代理：
 ```
-git config --global http.proxy http://127.0.0.1:1080 
+git config --global http.proxy http://127.0.0.1:1080
 git config --global https.proxy http://127.0.0.1:1080
 ```
 其中端口可以到系统设置->网络和Internet->代理中查看。
