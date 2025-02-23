@@ -5,6 +5,12 @@
 
 在 `Setting` 中搜索*git.path*，将路径 `root_path\Git\bin\git.exe` 写入setting.json文件
 
+# 查看全部的全局配置
+
+```
+git config --global --list
+```
+
 # 关于代理服务器
 
 访问Github.com需要配置代理服务器。
@@ -20,4 +26,11 @@ git config --global https.proxy http://127.0.0.1:7890
 ```
 git config --global --unset http.proxy 
 git config --global --unset https.proxy
+```
+
+# 用户名和邮箱配置
+
+```
+git config --global user.name "ZPJ-LEFT"
+git config --global user.email 2724682324@qq.com
 ```
