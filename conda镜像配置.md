@@ -1,7 +1,6 @@
 # conda install 加速
 
-
-## 使用清华源
+## 配置清华源
 
 清华大学开源软件镜像站 ：https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/
 

@@ -1,3 +1,5 @@
+# 文心一言API调用
+
 百度智能云->应用接入->新建应用->获得API Key, Secret Key
 
 1. 获取API的access_token接口
