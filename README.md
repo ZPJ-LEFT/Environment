@@ -1,8 +1,3 @@
-# 经验总结
+# 环境配置经验
 
-自用仓库，记录日常学习工作中的问题总结和解决办法
-
-## 前沿研究
-
-- Transformers without Normalization - DyT
-- iTransformer
+记录一些环境配置的经验，尤其是涉及的指令。
